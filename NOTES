@@ -1,0 +1,14 @@
+#Project Proposal 
+
+A website that allows user to save their favorite random Kanye west quotes 
+
+#MVP
+ - User can save randomly generated Kanye West Jokes 
+ - Can click a button to load a new Kanye West Quote 
+ - A user can also click a button to delted favorited Quotes. 
+ 
+ #strech
+ - Users can Save Kanye West Quotes in an array 
+ - A user can click a button that loads a new Quote
+ - JSON server to persis the saved Quote
+ - CSS
