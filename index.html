@@ -3,22 +3,30 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Kanye West Quotes</title>
-  
+    <title>Kanye West Quote generator!</title>
+
     <script defer src="index.js" charset="utf-8"></script>
-    <script defer src="api.js" charset="utf-8"></script>
+    
   </head>
   <body>
-       
+  <div class="container">
     <h1>Your Favorite Kanye West Quotes!</h1>
-
-    <p id='quote'></p>
-
-
-    <button id="Refresh-button"> New Quote</button>
+    <!-- Kanye West Quote goes here!-->
+      <p id='quote-text'>
+        Kanye west Quote goes in here...
+      </p>
+      <!-- buttons -->
+      <div class="buttons"></div>
+        <!--refresh button -->
+        <button id="Refresh-button"> New Quote</button>
+        <!--favrotie button or ??-->
+        <button id="favorite-button"> Favorites</button>
    
 
-    <h2> My Favorite Kante Quotes!</h2>
+    <h2> Favorites!</h2>
+    <p>
+      <ul id ="liked-quotes"></ul>
+    </p>
 
     
   </body>

@@ -3,9 +3,9 @@
 A website that allows user to save their favorite random Kanye west quotes 
 
 #MVP
- - User can save randomly generated Kanye West Jokes 
- - Can click a button to load a new Kanye West Quote 
- - A user can also click a button to delted favorited Quotes. 
+ - web page will generator a random Kanye West quote.
+ - User can save their favorite quotes.  
+ - A user can also click on their favorited quote to delete..
  
  #strech
  - Users can Save Kanye West Quotes in an array 
