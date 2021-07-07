@@ -1,6 +1,6 @@
 console.log('Welcome to Random Kanye Quotes!')
 
-//Elements 
+
 const quotePTag = document.querySelector("#quote-text")
 const refreshButton = document.querySelector("#Refresh-button")
 const favoriteButton = document.querySelector("#favorite-button")
